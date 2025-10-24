@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+dist/
+build/
+wwwroot/lib/
+wwwroot/**/*.map
+wwwroot/**/*.min.*
+TPAlquilerCanchas/Content/**/min/
+TPAlquilerCanchas/Scripts/**/min/
