@@ -1,10 +1,14 @@
-node_modules/**  linguist-vendored
-packages/**      linguist-vendored
-dist/**          linguist-generated
-build/**         linguist-generated
-*.min.js         linguist-generated
-*.min.css        linguist-generated
-*.map            linguist-generated
+# --- No contar librerías vendorizadas ---
+packages/**                           linguist-vendored
+TPAlquilerCanchas/Scripts/**          linguist-vendored
+TPAlquilerCanchas/Content/**          linguist-vendored
+wwwroot/lib/**                        linguist-vendored
 
+# --- No contar archivos generados/minificados ---
+**/*.min.js                           linguist-generated
+**/*.min.css                          linguist-generated
+**/*.map                              linguist-generated
+
+# --- Contar Razor como C# ---
 *.cshtml linguist-language=C#
 *.razor  linguist-language=C#
