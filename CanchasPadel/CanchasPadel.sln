@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanchasPadel", "CanchasPadel\CanchasPadel.csproj", "{56A9C60E-1D26-4C66-962D-2E9C5BBE5F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A9C60E-1D26-4C66-962D-2E9C5BBE5F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A9C60E-1D26-4C66-962D-2E9C5BBE5F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A9C60E-1D26-4C66-962D-2E9C5BBE5F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A9C60E-1D26-4C66-962D-2E9C5BBE5F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9D0676-7DC4-43DC-AEB0-51EEC1309BEC}
+	EndGlobalSection
+EndGlobal
